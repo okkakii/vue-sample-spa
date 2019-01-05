@@ -3,5 +3,5 @@ build/
 temp/
 .ds_store
 .idea/
-dist/
+bundle.js
 yarn-error.log
