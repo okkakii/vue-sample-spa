@@ -1,0 +1,7 @@
+node_modules/
+build/
+temp/
+.ds_store
+.idea/
+dist/
+yarn-error.log
